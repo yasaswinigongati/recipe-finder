@@ -13,7 +13,7 @@ Requirements :
 🔹 Flask
 
 commands :
-pip install flask
+pip install flask,
 python app.py
 
 browse :
