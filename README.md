@@ -1,6 +1,6 @@
 🍲 Recipe Finder
 
- - Recipe Finder is a basic Python Flask web app that allows users to search for recipes and view their step-by-step instructions.
+  - Recipe Finder is a basic Python Flask web app that allows users to search for recipes and view their step-by-step instructions.
 
 # Features :
 🔹 Search recipes by name
