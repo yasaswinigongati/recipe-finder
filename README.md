@@ -1,43 +1,23 @@
-Recipe Finder
-Description
+🍲 Recipe Finder
 
-Recipe Finder is a basic Python Flask web app that allows users to search for recipes and view their steps.
+Recipe Finder is a basic Python Flask web app that allows users to search for recipes and view their step-by-step instructions.
 
-Features
+Features :
+🔹 Search recipes by name
+🔹 Display steps for each recipe
+🔹 Shows message if recipe is not found
+🔹 Simple and clean UI
 
-Search recipes by name
+Requirements :
+🔹 Python 3.x
+🔹 Flask
 
-Display steps for each recipe
-
-Shows message if recipe not found
-
-Simple and clean UI
-
-Requirements
-
-Python 3.x
-
-Flask
-
-Install Flask:
-
+commands :
 pip install flask
-
 python app.py
 
+browse :
+http://127.0.0.1:5000/
 
-Open browser at http://127.0.0.1:5000/
+Enter a recipe name and click Search..
 
-Enter a recipe name and click Search
-
-Sample Recipes
-
-pasta
-
-fried rice
-
-omelette
-
-maggi
-
-sandwich
