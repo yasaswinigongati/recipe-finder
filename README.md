@@ -16,6 +16,6 @@
 🔹python app.py
 
 
-Enter a recipe name and click Search..
+Enter a recipe name and click Search.
 
 
